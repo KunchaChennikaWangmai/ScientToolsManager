@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148996345595",
+    "firebase_url": "https://scienttoolsmanagementapp.firebaseio.com",
+    "project_id": "scienttoolsmanagementapp",
+    "storage_bucket": "scienttoolsmanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148996345595:android:54608295acb69336f7ea5e",
+        "android_client_info": {
+          "package_name": "com.example.toolsmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148996345595-oro8rklhd7emc9ih5lmd2ag5g44pb45s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toolsmanagement",
+            "certificate_hash": "5e78e5aa7e4ce3e9b60bf91bb16972a5b0c83bfa"
+          }
+        },
+        {
+          "client_id": "148996345595-2b4di1alah0nco59msd6pgf5sursgm6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Oxvfr6Vb4mSC-2AtLGsekfXTP5pFqoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148996345595-2b4di1alah0nco59msd6pgf5sursgm6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
